@@ -1,0 +1,262 @@
+body {
+  background: red;
+}
+
+.box {
+  background: black;
+  width: 650px;
+  height: 1100px;
+  overflow: hidden;
+  position: relative;
+  margin: 0 auto;
+}
+.container {
+  transform: rotate(31deg);
+  background: black;
+  font-family: Helvetica;
+  font-size: 49px;
+  font-weight: regular;
+  color: white;
+  border: 1px solid black;
+  width: 1140px;
+  height: 1290px;
+  display: grid;
+  grid-template-columns: 13% 8.5% 13% 2% 2% 3% 7.5% 1.5% 3% 6% 7.7% 16% 16.8%;
+  grid-template-rows: 7.5% 7.5% 6.5% 6.5% 4% 4% 4% 3% 4% 2.8% 3% 3% 17% 6.5% 14% 6.5%;
+  margin-left: -240px;
+  margin-top: -100px;
+}
+
+#straw {
+  grid-column: 1/ span 3;
+  grid-row: 5;
+  font-weight: regular;
+  margin-left: 50px;
+  color: white;
+}
+
+.area {
+  background: white;
+}
+
+#line-one {
+  grid-column: 2 / span 6;
+  grid-row: 4;
+  height: 4px;
+  width: 370px;
+  align-self: end;
+  margin-left: 20px;
+  margin-bottom: 4px;
+  transform: rotate(-1deg);
+}
+
+#line-two {
+  grid-column: 2;
+  grid-row: 6;
+  height: 35px;
+  width: 380px;
+  transform: rotate(-1deg);
+}
+
+#line-three {
+  grid-column: 2 / span 5;
+  grid-row: 7;
+  height: 4px;
+  align-self: start;
+  margin-left: 20px;
+  transform: rotate(-1deg);
+}
+
+#line-four {
+  grid-column: 2;
+  grid-row: 8;
+  height: 3px;
+  width: 200px;
+  align-self: start;
+  margin-left: 20px;
+  transform: rotate(-1deg);
+}
+
+#fort {
+  grid-column: 3;
+  grid-row: 12;
+  font-weight: regular; 
+}
+
+#line-five {
+  grid-column: 5;
+  grid-row: 2;
+  width: 3px;
+  justify-self: center;
+}
+
+#line-six {
+  grid-column: 5;
+  grid-row: 4 / span 5;
+  width: 3px;
+  justify-self: center;
+  transform: rotate(-1deg);
+}
+
+#line-seven {
+  grid-column: 4;
+  grid-row: 11 / span 3;
+  width: 25px;
+  margin-top: 30px;
+}
+
+#line-eight {
+  grid-column: 5;
+  grid-row: 12;
+  width: 3px;
+  height: 400px;
+  justify-self: end;
+  transform: rotate(-1deg);
+
+}
+
+#line-nine {
+  grid-column: 7;
+  grid-row: 2;
+  height: 220px;
+  width: 50px;
+}
+
+#line-ten {
+  grid-column: 7;
+  grid-row: 9 / span 7;
+  width: 50px;
+  margin-top: 10px;
+  transform: rotate(-1deg);
+}
+
+#line-eleven {
+  grid-column: 7 / span 5;
+  grid-row: 8;
+  height: 3px;
+  transform: rotate(-1deg);
+  margin-top:5px;
+}
+
+#line-twelve {
+  grid-column: 8;
+  grid-row: 2 / span 2;
+  width: 12px;
+/*   transform: rotate(-1deg) */
+}
+
+#line-thirteen {
+  grid-column: 8;
+  grid-row: 6;
+/*   transform: rotate(-1deg) */
+  width: 12px;
+  height: 550px;
+}
+
+#line-fourteen {
+  grid-column: 9;
+  grid-row: 2 / span 4;
+  width: 3px;
+  justify-self: center;
+}
+
+#line-fifteen {
+  grid-column: 9 / span 3;
+  grid-row: 6;
+  height: 4px;
+  align-self: end;
+  margin-left: 16px;
+  transform: rotate(-1deg);
+}
+
+#line-sixteen {
+  grid-column: 9;
+  grid-row: 10;
+  width: 3px;
+  height: 470px;
+  justify-self: end;
+}
+
+#line-seventeen {
+  grid-column: 10;
+  grid-row: 3 / span 10;
+  width: 20px;
+  justify-self: start;
+  margin-left: 18px;
+  transform: rotate(-.5deg);
+}
+
+#line-eighteen {
+  grid-column: 10;
+  grid-row: 15;
+  width: 20px;
+  height: 200px;
+  justify-self: start;
+  margin-left: 18px;
+  transform: rotate(-.5deg);
+}
+
+#line-nineteen {
+  grid-column: 11;
+  grid-row: 6;
+  height: 30px;
+  width: 120px;
+  align-self: start;
+}
+
+#berg {
+  grid-column: 11;
+  grid-row: 7;
+  font-weight: regular;
+}
+
+#lorem {
+  font-size: 8px;
+  grid-column: 11;
+  grid-row: 14;
+  transform: rotate(270deg);
+  transform-origin: center center;
+  width: 140px; 
+  margin-left: 20px; 
+  margin-top: -4px; 
+}
+#line-twenty {
+  grid-column: 12;
+  grid-row: 4;
+  height: 3px;
+  width: 40px;
+  align-self: end;
+}
+
+#ton {
+  font-size: 10px;
+  grid-column: 12;
+  grid-row: 11;
+  line-height: 1.25;
+}
+
+#leit {
+  font-size: 10px;
+  grid-column: 12;
+  grid-row: 13;
+    line-height: 1.25;
+}
+
+#i-straw {
+  font-size: 10px;
+  grid-column: 12;
+  grid-row: 13;
+  align-self: end;
+  margin-bottom: 40px;
+    line-height: 1.25;
+}
+
+#karten {
+
+  font-size: 10px;
+  grid-column: 12;
+  grid-row: 14;
+  align-self: end;
+  margin-top: 20px;
+      line-height: 1.25;
+}
