@@ -12,6 +12,7 @@ For the color, I chose to keep it simple, sticking to black and white, which I f
 The poster design is entirely using **CSS** and **HTML** code.
 * I began by constructing an HTML structure that prioritizes the use of semantic HTML for organizing the poster's content.
 * I incoperated the CSS Box model as in the instruction (use ```border-box``` box-sizing on all of your elements using the universal selector)
+* I also looked up some tutorials regarding to CSS styles.
 ```CSS
 .box {
   background: black;
