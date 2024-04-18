@@ -17,7 +17,7 @@ app.post("/api/generateImage", async (req, res) => {
     const input = {
       image: req.body.canvasData, // Use the received canvas data URL as the input image
 
-      prompt: "elegant petroglyph carved on the wall",
+      prompt: "elegant ancient Greek petroglyph carved in the wall of cave",
     };
     const output = await replicate.run(
       "jagilley/controlnet-scribble:435061a1b5a4c1e26740464bf786efdfa9cb3a3ac488595a2de23e143fdb0117",
