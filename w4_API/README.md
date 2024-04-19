@@ -7,7 +7,10 @@ This week your assignment is to **leap into the world of server-side programming
 ## Concept and Design
 
 ## API References
-
+- This is a drawing interface to create a control image(**elegant ancient Greek petroglyph carved in the wall of cave**) for this API model.
+- This is also an interface:
+    - calls the model & returns the results to the frontend
+    - displays the results to the user
 
 - [1️⃣](https://replicate.com/mistralai/mixtral-8x7b-instruct-v0.1)
 - [2️⃣](https://replicate.com/cjwbw/rembg)
