@@ -6,9 +6,15 @@ This week your assignment is to **leap into the world of server-side programming
 
 ## Concept and Design
 
-## Maintainers
+## API References
 
-- Daniel F. Kudwien - [sun](https://www.drupal.org/u/sun)
-- Peter Wolanin - [pwolanin](https://www.drupal.org/u/pwolanin)
-- Stefan M. Kudwien - [smk-ka](https://www.drupal.org/u/smk-ka)
-- Dave Reid - [Dave Reid](https://www.drupal.org/u/dave-reid)
+
+- [1️⃣](https://replicate.com/mistralai/mixtral-8x7b-instruct-v0.1)
+- [2️⃣](https://replicate.com/cjwbw/rembg)
+- [3️⃣](https://replicate.com/jagilley/controlnet-scribble)
+- [4️⃣](https://replicate.com/batouresearch/instant-paint)
+- [5️⃣](https://replicate.com/batouresearch/sdxl-controlnet-lora-inpaint)
+- [6️⃣](https://replicate.com/batouresearch/magic-style-transfer)
+- [7️⃣](https://replicate.com/batouresearch/sdxl-outpainting-lora)
+- [8️⃣](https://replicate.com/batouresearch/sdxl-lcm-lora-controlnet)
+- [9️⃣](https://replicate.com/meta/llama-2-13b-chat)
