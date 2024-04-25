@@ -10,7 +10,7 @@ genButton.addEventListener("click", async () => {
   const input = document.getElementById("input");
   let prompt = input.value;
   if (!prompt) {
-    prompt = "Paperclip";
+    prompt = "hype boy";
   }
 
   const response = await fetch("/api/generateImage", {
