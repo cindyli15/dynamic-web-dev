@@ -10,12 +10,13 @@ body {
   flex-direction: column; 
   justify-content: center;
   align-items: center;
-  height: calc(100vh - 50px);
+  height: calc(100vh - 80px);
   font-family: "JetBrains Mono", monospace;
   font-size: .9rem;
   margin: 0;
-  padding: 20px;
-  color: hsl(0, 0%, 95%);
+  margin-top: 20px;
+  padding: 15px;
+  color: hsl(225, 29%, 72%);
   overflow: hidden;
 }
 
@@ -51,6 +52,7 @@ textarea:focus, input:focus{
 button {
   position: relative;
   width: 6rem;
+  margin-top: 10px;
   font-family: sans-serif;
   font-size: .875rem;
   color: hsl(255, 26%, 15%);
@@ -67,10 +69,8 @@ button {
   border-width: 0;
   border-style: solid;
   border-color: #e5e7eb;
-  background-color: hsl(0, 0%, 95%);
-  color: hsl(255, 26%, 15%);
+  background-color: hsl(0, 0%, 95%), 80%;
   padding: .5rem;
   flex: 1;
   overflow-y: auto;
 }
-
