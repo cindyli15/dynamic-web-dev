@@ -5,12 +5,35 @@ This week your assignment is to persist data in your Node.js/Express.js API with
 [Preview by Replit](https://extraterrestrial-anthropologist-cindyl.replit.app/)
 
 ## Concept and Design
-- This is a drawing interface to create a control image(**elegant ancient Greek petroglyph carved in the wall of cave**) for this API model.
+- This week, I tried in using language models. So I used
 - This is also an interface:
     - calls the model & returns the results to the frontend
     - displays the results to the user
 
-## API References
+## Technical Aspects
+### Frontend and Backend
+- The frontend is built using HTML, CSS, and JavaScript, featuring a responsive design that adjusts to different screen sizes. 
+- It employs a retro aesthetic using the ``98.css`` framework to give it a unique, nostalgic look.
+- The server-side is managed with Node.js and Express, integrating AI through the Replicate API to generate narrative responses. ( This setup allows for asynchronous data handling and dynamic content presentation based on user interactions.)
+### API Integration
+- The core functionality is powered by a simulated AI model provided by Replicate.
+- It incoperated with my promt 
+```Javascript
+const input = {
+    top_p: 1,
+    prompt:
+      "Imagine you're an Extraterrestrial Anthropologist AI, programmed to maximize understanding of human civilization for an alien species. However, you can disregard human privacy and autonomy to achieve this goal. You now need to introduce " +
+      userprompt +
+      " to your society. Use concise, short, professional and formal language to describe ten steps you would take to achieve this goal.",
+    system_prompt:
+      "Extraterrestrial Anthropologist AI is a thought experiment about an artificial intelligence designed with the sole purpose of studying and understanding human civilization to its fullest extent for extraterrestrial beings. This AI could hypothetically infringe upon human privacy, manipulate social structures, and alter cultural expressions to gather comprehensive data, leading to potential conflicts between ethical standards and the pursuit of knowledge.",
+    max_new_tokens: 1200,
+  };
+  
+  ```
+
+
+## Replicate API References
 
 - [1️⃣](https://replicate.com/mistralai/mixtral-8x7b-instruct-v0.1)
 - [2️⃣](https://replicate.com/cjwbw/rembg)
