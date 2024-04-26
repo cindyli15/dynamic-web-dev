@@ -2,7 +2,7 @@
 ## The API of You: Living forever on the web
 This week your assignment is to persist data in your Node.js/Express.js API with a database. You will write server-side JavaScript to do CRUD operations on a database, controlled by an API. Then, client-side JavaScript triggered by user actions will make API requests and read/write to the database.
 ## Link
-[Preview by Replit](https://drawing-petroglyph-api-cindy-li.replit.app)
+[Preview by Replit](https://extraterrestrial-anthropologist-cindyl.replit.app/)
 
 ## Concept and Design
 - This is a drawing interface to create a control image(**elegant ancient Greek petroglyph carved in the wall of cave**) for this API model.
