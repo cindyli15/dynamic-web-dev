@@ -6,6 +6,6 @@
 - Error handling for fetch operations.
 ### Back-end (Node.js with Express):
 - Serving static files and handling JSON body parsing.
-- Endpoint /api/generateImage that processes input, interacts with an external AI API (Replicate), and sends back a response.
+- Endpoint ''' /api/generateImage ''' that processes input, interacts with an external AI API (Replicate), and sends back a response.
 - Streaming responses from the Replicate API, constructing a story dynamically.
 - Listening on port 3000, confirming server initialization in the console.
