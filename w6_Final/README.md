@@ -3,8 +3,8 @@
 [Preview by Replit](https://extraterrestrial-anthropologist-ai-cindyl.replit.app/)
 
 ## Concept and Design
-- This project revolves around the development of an interactive web-based application named "Extraterrestrial Anthropologist AI". This innovative tool is designed to **simulate a thought experiment where users engage with an AI programmed to understand human civilization from an extraterrestrial perspective (like a alien👽🛸).**
-- The entire interface evokes a retro, nostalgic vibe reminiscent of the "space" aesthetic, reminiscent of web interfaces from a decade ago.
+- This project revolves around the development of an interactive web-based application named "Extraterrestrial Anthropologist AI". This is designed to **simulate a thought experiment where users engage with an AI programmed to understand human civilization from an extraterrestrial perspective (like a alien👽🛸).**
+- The entire interface has a retro, nostalgic vibe, reminding of the "space" aesthetic, and it also looks like a web interface from a decade ago.
 ## Key Features
 - Here, I tried in using the **language model**.
 - **AI-Driven Responses**: At the core of your application is an AI model that processes the user inputs to generate thoughtful and engaging narratives or answers. 
