@@ -1,9 +1,9 @@
 # FINAL PROJECT🥵
 ## Link
-[Preview by Replit](https://extraterrestrial-anthropologist-cindyl.replit.app/)
+[Preview by Replit](https://extraterrestrial-anthropologist-ai-cindyl.replit.app/)
 
 ## Concept and Design
-- This week, I tried in using **language models**.
+- Here, I tried in using **language models**.
 - This project revolves around the development of an interactive web-based application named "Extraterrestrial Anthropologist AI". This innovative tool is designed to **simulate a thought experiment where users engage with an AI programmed to understand human civilization from an extraterrestrial perspective (like a alien👽🛸).**
 ## Functionality
 - The frontend is built using HTML, CSS, and JavaScript, featuring a responsive design that adjusts to different screen sizes. 
