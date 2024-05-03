@@ -7,8 +7,8 @@
 - The entire interface has a retro, nostalgic vibe, reminding of the "space" aesthetic, and it also looks like a web interface from a decade ago.
 ## Key Features
 - Here, I tried in using the **language model**.
-- **AI-Driven Responses**: At the core of your application is an AI model that processes the user inputs to generate thoughtful and engaging narratives or answers. 
-- **Technological Integration**: The application uses modern web technologies such as HTML, CSS, and JavaScript on the front end, with **Node.js** and **Express** forming the backend. 
+-  The application uses modern web technologies such as HTML, CSS, and JavaScript on the front end, with **Node.js** and **Express** forming the backend.
+-  At the core of this application is an AI model that processes the user inputs to generate thoughtful and engaging narratives or answers. 
 ## Functionality
 - The frontend is built using HTML, CSS, and JavaScript, featuring a responsive design that adjusts to different screen sizes. 
 - It employs a retro aesthetic using the ``98.css`` framework to give it a unique and nostalgic look.
